@@ -154,7 +154,7 @@
       "tags": [
         "services"
       ],
-      "body": "<p>We are pleased to announce the release of the Nanbyo Disease Ontology (NANDO) Version 2026-09-18.</p>\n\n<ul>\n<li>Main Updates\n<ul>\n<li>Added three newly designated intractable diseases following the April 2026 revision.</li>\n<li>Updated the disease name for NANDO:1200755 from “Alpha-1 antitrypsin deficiency” to the revised Japanese term “α1－アンチトリプシン欠乏症.”</li>\n<li>Fixed character encoding issues.</li>\n</ul></li>\n</ul>\n"
+      "body": "<p>We are pleased to announce the release of the Nanbyo Disease Ontology (NANDO) Version 2026-09-15.</p>\n\n<ul>\n<li>Main Updates\n<ul>\n<li>Added three newly designated intractable diseases following the April 2026 revision.</li>\n<li>Updated the disease name for NANDO:1200755 from “Alpha-1 antitrypsin deficiency” to the revised Japanese term “α1－アンチトリプシン欠乏症.”</li>\n<li>Fixed character encoding issues.</li>\n</ul></li>\n</ul>\n"
     },
     {
       "id": "2026-05-29-post1",
