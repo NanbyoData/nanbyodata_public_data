@@ -1,6 +1,15 @@
 {
   "ja": [
     {
+      "id": "2026-09-18-post1",
+      "date": "2026.09.18",
+      "title": "難病オントロジー NANDO Version 2026-09-15 リリースのお知らせ",
+      "tags": [
+        "services"
+      ],
+      "body": "<p>難病オントロジー NANDO（Nanbyo Disease Ontology）の Version 2026-09-15 をリリースしました</p>\n\n<h2>アップデート内容</h2>\n\n<ul>\n<li>新規指定難病を3疾患追加（令和８年４月改定）</li>\n<li>疾患名の変更を行いました。NANDO:1200755　α1-アンチトリプシン欠損症 → α1－アンチトリプシン欠乏症</li>\n<li>文字のバグの修正を行いました</li>\n</ul>\n"
+    },
+    {
       "id": "2026-05-29-post1",
       "date": "2026.05.29",
       "title": "NanbyoData UI/UX 改善リリース（Version 2026-05-29）",
