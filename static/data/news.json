@@ -7,7 +7,7 @@
       "tags": [
         "services",
         "nanbyodata",
-        "dataupdate"
+        "data-update"
       ],
       "body": "<p>疾患情報ページを中心に以下の新情報の追加および疾患名の表示、リンク等を改善しました。</p>\n\n<h2>アップデート内容</h2>\n\n<ul>\n<li>NBDCヒトデータベースの新規情報を追加しました。</li>\n<li>顔貌特徴：GestaltMatcher Databaseへのリンクを修正しました。</li>\n</ul>\n"
     },
