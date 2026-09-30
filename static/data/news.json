@@ -160,6 +160,17 @@
   ],
   "en": [
     {
+      "id": "2026-10-01-post2",
+      "date": "2026.10.01",
+      "title": "NanbyoData Version 2026-10-01, a portal site for intractable diseases, has been released.",
+      "tags": [
+        "services",
+        "nanbyodata",
+        "data-update"
+      ],
+      "body": "<p>We have added the following new information, mainly to the disease information pages, and improved the display of disease names and related links.</p>\n\n<h2>Updates</h2>\n\n<ul>\n<li>Human Genomic Datasets: Added new information from the NBDC Human Database.</li>\n<li>Facial Features: Updated the links to the GestaltMatcher Database.</li>\n</ul>\n"
+    },
+    {
       "id": "2026-10-01-post1",
       "date": "2026.10.01",
       "title": "NANDO Version 2026-09-15, a Nanbyo Disease Ontology, has been released.",
