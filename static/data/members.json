@@ -18,20 +18,6 @@
       },
       {
         "name": {
-          "ja": "高月 照江",
-          "en": "Terue Takatsuki",
-          "yomi": "たかつき てるえ"
-        },
-        "affiliation": {
-          "ja": "DBCLS",
-          "en": "DBCLS"
-        },
-        "location": "",
-        "image_name": "terue_takatsuki.jpg",
-        "url": ""
-      },
-      {
-        "name": {
           "ja": "申 在紋",
           "en": "Jaemoon Shin",
           "yomi": "しん じぇむん"
@@ -358,6 +344,20 @@
         },
         "location": "",
         "image_name": "",
+        "url": ""
+      },
+      {
+        "name": {
+          "ja": "高月 照江",
+          "en": "Terue Takatsuki",
+          "yomi": "たかつき てるえ"
+        },
+        "affiliation": {
+          "ja": "",
+          "en": ""
+        },
+        "location": "",
+        "image_name": "terue_takatsuki.jpg",
         "url": ""
       },
       {
