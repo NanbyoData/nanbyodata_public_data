@@ -1,6 +1,20 @@
 {
   "ja": [
     {
+      "id": "2026-09-15-resource1",
+      "date": "2026.09.15",
+      "publisher": "第45回日本糖質学会年会",
+      "title": "AIによる、難病×糖鎖に関連する遺伝⼦の提案",
+      "url": "",
+      "tags": [
+        "poster",
+        "domestic",
+        "collaboration"
+      ],
+      "description": "パピヨン24、2026年9月14日-16日",
+      "authors": "永積輝, 細⽥正恵, 清⽔佳奈"
+    },
+    {
       "id": "2026-07-25-resource1",
       "date": "2026.07.25",
       "publisher": "第66回日本先天異常学会学術集会",
