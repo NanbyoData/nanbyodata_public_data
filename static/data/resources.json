@@ -132,6 +132,20 @@
   ],
   "en": [
     {
+      "id": "2026-09-15-resource1",
+      "date": "2026.09.15",
+      "publisher": "第45回日本糖質学会年会 (JSCR45)",
+      "title": "AI-driven Proposal of Glycan-associated Genes for a Rare Disease Database",
+      "url": "",
+      "tags": [
+        "poster",
+        "domestic",
+        "collaboration"
+      ],
+      "description": "Papillon 24、September 14–16, 2026",
+      "authors": "Hikaru Nagazumi, Masae Hosoda, Kana Shimizu"
+    },
+    {
       "id": "2026-07-25-resource1",
       "date": "2026.07.25",
       "publisher": "第66回日本先天異常学会学術集会",
