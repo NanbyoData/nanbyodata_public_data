@@ -8,7 +8,7 @@
         "nanbyodata",
         "data-update"
       ],
-      "body": "<p>疾患情報ページに以下の情報を追加しました。</p>\n\n<h2>アップデート内容</h2>\n\n<p>NBDCヒトデータベースの新規情報をヒトゲノムデータセットとして以下の疾患に追加しました。</p>\n\n<h4>指定難病</h4>\n\n<ul>\n<li><a href=\"https://nanbyodata.jp/disease/NANDO:1200655#human-genomic-datasets\">ウィルソン病（NANDO:1200655）</a></li>\n</ul>\n\n<h4>小児慢性特定疾病</h4>\n\n<ul>\n<li><a href=\"https://nanbyodata.jp/disease/NANDO:2200579#human-genomic-datasets\">ウィルソン病（NANDO:2200579）</a></li>\n<li><a href=\"https://nanbyodata.jp/disease/NANDO:2200047#human-genomic-datasets\">肝細胞癌（NANDO:2200047）</a></li>\n</ul>\n"
+      "body": "<p>疾患情報ページに以下の情報を追加しました。</p>\n\n<h2>アップデート内容</h2>\n\n<p>NBDCヒトデータベースの新規情報をヒトゲノムデータセットとして以下の疾患に追加しました。</p>\n\n<h4>指定難病</h4>\n\n<ul>\n<li><p><a href=\"https://nanbyodata.jp/disease/NANDO:1200655#human-genomic-datasets\">ウィルソン病（NANDO:1200655）</a>に<a href=\"https://humandbs.dbcls.jp/research/hum0567\">hum0567</a>を追加</p>\n\n<h4>小児慢性特定疾病</h4></li>\n<li><p><a href=\"https://nanbyodata.jp/disease/NANDO:2200579#human-genomic-datasets\">ウィルソン病（NANDO:2200579）</a>に<a href=\"https://humandbs.dbcls.jp/research/hum0567\">hum0567</a>を追加</p></li>\n<li><a href=\"https://nanbyodata.jp/disease/NANDO:2200047#human-genomic-datasets\">肝細胞癌（NANDO:2200047）</a>に<a href=\"https://humandbs.dbcls.jp/research/hum0567\">hum0567</a>を追加</li>\n</ul>\n"
     },
     {
       "id": "2026-10-01-post2",
