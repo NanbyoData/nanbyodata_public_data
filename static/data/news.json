@@ -177,7 +177,7 @@
         "nanbyodata",
         "data-update"
       ],
-      "body": "<p>We have added the following information to the disease information pages.</p>\n\n<h2>Updates</h2>\n\n<p>New information from the NBDC Human Database has been added as a Human Genome Dataset for the following diseases.  </p>\n\n<h4>Designated intractable disease</h4>\n\n<ul>\n<li>Wilson disease (NANDO:1200655): Added hum0567</li>\n</ul>\n\n<h4>Specific pediatric chronic disease</h4>\n\n<ul>\n<li>Wilson disease (NANDO:2200579): Added hum0567</li>\n<li>Hepatocellular carcinoma (NANDO:2200047): Added hum0567</li>\n</ul>\n"
+      "body": "<p>We have added the following information to the disease information pages.</p>\n\n<h2>Updates</h2>\n\n<p>New information from the NBDC Human Database has been added as a Human Genome Dataset for the following diseases.  </p>\n\n<h4>Designated intractable disease</h4>\n\n<ul>\n<li><a href=\"https://nanbyodata.jp/disease/NANDO:1200655?lang=en\">Wilson disease (NANDO:1200655)</a>: Added <a href=\"https://humandbs.dbcls.jp/en/research/hum0567\">hum0567</a></li>\n</ul>\n\n<h4>Specific pediatric chronic disease</h4>\n\n<ul>\n<li><a href=\"https://nanbyodata.jp/disease/NANDO:2200579?lang=en\">Wilson disease (NANDO:2200579)</a>: Added <a href=\"https://humandbs.dbcls.jp/en/research/hum0567\">hum0567</a></li>\n<li><a href=\"https://nanbyodata.jp/disease/NANDO:2200047?lang=en\">Hepatocellular carcinoma (NANDO:2200047)</a>: Added <a href=\"https://humandbs.dbcls.jp/en/research/hum0567\">hum0567</a></li>\n</ul>\n"
     },
     {
       "id": "2026-10-01-post2",
