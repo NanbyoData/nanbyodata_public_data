@@ -1,7 +1,7 @@
 {
   "ja": [
     {
-      "id": "2026-09-15-resource1",
+      "id": "2026-09-15-research-activity1",
       "date": "2026.09.15",
       "publisher": "第45回日本糖質学会年会",
       "title": "AIによる、難病×糖鎖に関連する遺伝⼦の提案",
@@ -15,7 +15,7 @@
       "authors": "永積輝, 細⽥正恵, 清⽔佳奈"
     },
     {
-      "id": "2026-07-25-resource1",
+      "id": "2026-07-25-research-activity1",
       "date": "2026.07.25",
       "publisher": "第66回日本先天異常学会学術集会",
       "title": "NanbyoDataにおける先天異常関連疾患と症状・発症時期の解析",
@@ -28,7 +28,7 @@
       "authors": "細田正恵, 申在紋, 高月照江, 三橋信孝, 菊池敦夫, 藤原豊史"
     },
     {
-      "id": "2026-07-10-resource1",
+      "id": "2026-07-10-research-activity1",
       "date": "2026.07.10",
       "publisher": "第33回日本遺伝子診療学会大会",
       "title": "難病オントロジー（NANDO）とポータルサイト「NanbyoData」による難病情報の国際的な統合と共有に向けた取り組み",
@@ -41,7 +41,7 @@
       "authors": "高月照江, 菊地敦生, 小久保璃奈, 申在紋, 細田正恵, 櫛田達矢, 藤原豊史"
     },
     {
-      "id": "2025-12-03-resource1",
+      "id": "2025-12-03-research-activity1",
       "date": "2025.12.03",
       "publisher": "第48回日本分子生物学会年会",
       "title": "NANDO（Nanbyo Disease Ontology）から広がるデータ連携",
@@ -54,7 +54,7 @@
       "authors": "高月照江, 菊地敦生, 申在紋, 細田正恵, 櫛田達矢, 藤原豊史"
     },
     {
-      "id": "2025-10-20-resource1",
+      "id": "2025-10-20-research-activity1",
       "date": "2025.10.20",
       "publisher": "トーゴーの日シンポジウム2025",
       "title": "NanbyoData：難病研究・診療の促進に向けた国際連携および領域横断型連携",
@@ -67,7 +67,7 @@
       "authors": "細田正恵, 申在紋, 高月照江, 三橋信孝, 菊池敦生, 藤原豊史"
     },
     {
-      "id": "2025-10-06-resource1",
+      "id": "2025-10-06-research-activity1",
       "date": "2025.10.06",
       "publisher": "Genetics",
       "title": "Mondo: Integrating Disease Terminology Across Communities",
@@ -79,7 +79,7 @@
       "authors": "Vasilevsky, Nicole, Toyofumi Fujiwara, Terue Takatsuki, et al."
     },
     {
-      "id": "2025-10-03-resource1",
+      "id": "2025-10-03-research-activity1",
       "date": "2025.10.03",
       "publisher": "第44回日本糖質学会年会",
       "title": "難病ポータルサイト(NanbyoData)への糖鎖遺伝子データ統合",
@@ -92,7 +92,7 @@
       "authors": "細田正恵, 申在紋, 高月照江, 三橋信孝, 藤原豊史"
     },
     {
-      "id": "2025-09-03-resource1",
+      "id": "2025-09-03-research-activity1",
       "date": "2025.09.03",
       "publisher": "生命医薬情報学連合大会(IIBMP)",
       "title": "Facilitating International Collaboration and Utilization through the Japanese Translation of Phenotype Ontologies",
@@ -105,7 +105,7 @@
       "authors": "高月照江, 藤原豊史"
     },
     {
-      "id": "2025-09-03-resource2",
+      "id": "2025-09-03-research-activity2",
       "date": "2025.09.03",
       "publisher": "生命医薬情報学連合大会(IIBMP)2025",
       "title": "NanbyoData: A Cross-Domain Integration Platform for Rare Disease Knowledge Sharing",
@@ -118,7 +118,7 @@
       "authors": "細田正恵, 高月照江, 申在紋, 三橋信孝, 藤原豊史"
     },
     {
-      "id": "2025-09-01-resource1",
+      "id": "2025-09-01-research-activity1",
       "date": "2025.09.01",
       "publisher": "人工知能",
       "title": "希少疾患診断支援における医療データ活用の現状と展望",
@@ -132,7 +132,7 @@
   ],
   "en": [
     {
-      "id": "2026-09-15-resource1",
+      "id": "2026-09-15-research-activity1",
       "date": "2026.09.15",
       "publisher": "第45回日本糖質学会年会 (JSCR45)",
       "title": "AI-driven Proposal of Glycan-associated Genes for a Rare Disease Database",
@@ -146,7 +146,7 @@
       "authors": "Hikaru Nagazumi, Masae Hosoda, Kana Shimizu"
     },
     {
-      "id": "2026-07-25-resource1",
+      "id": "2026-07-25-research-activity1",
       "date": "2026.07.25",
       "publisher": "第66回日本先天異常学会学術集会",
       "title": "NanbyoDataにおける先天異常関連疾患と症状・発症時期の解析",
@@ -159,7 +159,7 @@
       "authors": "細田正恵, 申在紋, 高月照江, 三橋信孝, 菊池敦夫, 藤原豊史"
     },
     {
-      "id": "2026-07-10-resource1",
+      "id": "2026-07-10-research-activity1",
       "date": "2026.07.10",
       "publisher": "第33回日本遺伝子診療学会大会",
       "title": "難病オントロジー（NANDO）とポータルサイト「NanbyoData」による難病情報の国際的な統合と共有に向けた取り組み",
@@ -172,7 +172,7 @@
       "authors": "高月照江, 菊地敦生, 小久保璃奈, 申在紋, 細田正恵, 櫛田達矢, 藤原豊史"
     },
     {
-      "id": "2025-12-03-resource1",
+      "id": "2025-12-03-research-activity1",
       "date": "2025.12.03",
       "publisher": "第48回日本分子生物学会年会",
       "title": "NANDO（Nanbyo Disease Ontology）から広がるデータ連携",
@@ -185,7 +185,7 @@
       "authors": "高月照江, 菊地敦生, 申在紋, 細田正恵, 櫛田達矢, 藤原豊史"
     },
     {
-      "id": "2025-10-20-resource1",
+      "id": "2025-10-20-research-activity1",
       "date": "2025.10.20",
       "publisher": "トーゴーの日シンポジウム2025",
       "title": "NanbyoData：難病研究・診療の促進に向けた国際連携および領域横断型連携",
@@ -198,7 +198,7 @@
       "authors": "細田正恵, 申在紋, 高月照江, 三橋信孝, 菊池敦生, 藤原豊史"
     },
     {
-      "id": "2025-10-06-resource1",
+      "id": "2025-10-06-research-activity1",
       "date": "2025.10.06",
       "publisher": "Genetics",
       "title": "Mondo: Integrating Disease Terminology Across Communities",
@@ -210,7 +210,7 @@
       "authors": "Vasilevsky, Nicole, Toyofumi Fujiwara, Terue Takatsuki, et al."
     },
     {
-      "id": "2025-10-03-resource1",
+      "id": "2025-10-03-research-activity1",
       "date": "2025.10.03",
       "publisher": "第44回日本糖質学会年会",
       "title": "難病ポータルサイト(NanbyoData)への糖鎖遺伝子データ統合",
@@ -223,7 +223,7 @@
       "authors": "細田正恵, 申在紋, 高月照江, 三橋信孝, 藤原豊史"
     },
     {
-      "id": "2025-09-03-resource1",
+      "id": "2025-09-03-research-activity1",
       "date": "2025.09.03",
       "publisher": "生命医薬情報学連合大会(IIBMP)",
       "title": "Facilitating International Collaboration and Utilization through the Japanese Translation of Phenotype Ontologies",
@@ -236,7 +236,7 @@
       "authors": "高月照江, 藤原豊史"
     },
     {
-      "id": "2025-09-03-resource2",
+      "id": "2025-09-03-research-activity2",
       "date": "2025.09.03",
       "publisher": "生命医薬情報学連合大会(IIBMP)2025",
       "title": "NanbyoData: A Cross-Domain Integration Platform for Rare Disease Knowledge Sharing",
@@ -249,7 +249,7 @@
       "authors": "細田正恵, 高月照江, 申在紋, 三橋信孝, 藤原豊史"
     },
     {
-      "id": "2025-09-01-resource1",
+      "id": "2025-09-01-research-activity1",
       "date": "2025.09.01",
       "publisher": "人工知能",
       "title": "希少疾患診断支援における医療データ活用の現状と展望",

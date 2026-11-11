@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-resources/ja/*.md と resources/en/*.md を走査し、
-front matter と本文を集約して static/data/resources.json を生成する。
+research-activities/ja/*.md と research-activities/en/*.md を走査し、
+front matter と本文を集約して static/data/research-activities.json を生成する。
 GitHub Actions などで push 時に実行する想定。
 """
 
@@ -73,14 +73,14 @@ def normalize_tags(tags):
 
 
 def build_entries_for_lang(lang):
-    """指定言語の resources ディレクトリを走査してエントリのリストを返す。"""
+    """指定言語の research-activities ディレクトリを走査してエントリのリストを返す。"""
     repo_root = Path(__file__).resolve().parents[1]
-    resources_dir = repo_root / 'resources' / lang
-    if not resources_dir.is_dir():
+    activities_dir = repo_root / 'research-activities' / lang
+    if not activities_dir.is_dir():
         return []
 
     entries = []
-    for path in sorted(resources_dir.glob('*.md'), reverse=True):
+    for path in sorted(activities_dir.glob('*.md'), reverse=True):
         try:
             md_text = path.read_text(encoding='utf-8')
         except Exception as e:
@@ -129,7 +129,7 @@ def build_entries_for_lang(lang):
             'authors': authors,
         })
 
-    # 日付の新しい順。同じ日は resource1, resource2, ... の順
+    # 日付の新しい順。同じ日は research-activity1, research-activity2, ... の順
     entries.sort(key=lambda e: e['id'])
     entries.sort(key=lambda e: e['date'], reverse=True)
     return entries
@@ -139,7 +139,7 @@ def main():
     repo_root = Path(__file__).resolve().parents[1]
     out_dir = repo_root / 'static' / 'data'
     out_dir.mkdir(parents=True, exist_ok=True)
-    out_path = out_dir / 'resources.json'
+    out_path = out_dir / 'research-activities.json'
 
     data = {
         'ja': build_entries_for_lang('ja'),

@@ -5,9 +5,9 @@
 ## Managed Content
 
 - News
-- Resources
+- Research activities
 - FAQ
-- News and resource tags
+- News and research activity tags
 - Team member information
 - Team member images
 
@@ -15,10 +15,10 @@
 
 ```text
 posts/                  News source files
-resources/              Resource source files
+research-activities/    Research activity source files
 static/data/
   news.json              Generated news data
-  resources.json         Generated resource data
+  research-activities.json  Generated research activity data
   tags.json              Tag configuration
   faq.json               FAQ
   members.json           Team member information
@@ -42,11 +42,11 @@ Edit the Markdown files in `posts/ja/` and `posts/en/`.
 
 When changes are pushed, GitHub Actions automatically generates `static/data/news.json`.
 
-### Resources
+### Research activities
 
-Edit the Markdown files in `resources/ja/` and `resources/en/`.
+Edit the Markdown files in `research-activities/ja/` and `research-activities/en/`.
 
-When changes are pushed, GitHub Actions automatically generates `static/data/resources.json`.
+When changes are pushed, GitHub Actions automatically generates `static/data/research-activities.json`.
 
 ### FAQ
 
@@ -65,6 +65,6 @@ For `image_name` in `members.json`, specify the filename of the image placed in 
 
 ## Important Notes
 
-- Do not edit `news.json` or `resources.json` directly because they are generated automatically.
+- Do not edit `news.json` or `research-activities.json` directly because they are generated automatically.
 - The contents of this repository are public. Do not commit files containing confidential or personal information.
 - Verify how the content is displayed in the development environment before deploying it to production.
