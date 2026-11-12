@@ -180,6 +180,16 @@
   ],
   "en": [
     {
+      "id": "2026-11-12-post1",
+      "date": "2026.11.12",
+      "title": "NanbyoData UI/UX 改善リリース（Version 6.2.1）",
+      "tags": [
+        "nanbyodata",
+        "services"
+      ],
+      "body": "<p>We have fixed an issue with downloads from the homepage and made UI/UX improvements.</p>\n\n<h3>Updates</h3>\n\n<ul>\n<li>Fixed an issue that prevented files from being downloaded from the homepage.</li>\n<li>Renamed \"Resources\" to \"Research activities\" to better present information about NanbyoData-related activities.</li>\n</ul>\n"
+    },
+    {
       "id": "2026-10-29-post1",
       "date": "2026.10.29",
       "title": "NanbyoData Version 4.3.0, a portal site for intractable diseases, has been released.",
