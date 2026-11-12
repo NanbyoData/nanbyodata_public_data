@@ -1,6 +1,16 @@
 {
   "ja": [
     {
+      "id": "2026-11-12-post1",
+      "date": "2026.11.12",
+      "title": "NanbyoData UI/UX 改善リリース（Version 6.2.1）",
+      "tags": [
+        "nanbyodata",
+        "services"
+      ],
+      "body": "<p>トップページのダウンロード機能の不具合を修正し、UI/UXの改善をしました。</p>\n\n<h2>アップデート内容</h2>\n\n<ul>\n<li>トップページからファイルをダウンロードができない不具合を修正しました。</li>\n<li>NanbyoDataに関する活動情報をより分かりやすく掲載するため、Resourcesから<a href=\"https://nanbyodata.jp/research-activities\">Research activites</a>に変更しました。</li>\n</ul>\n"
+    },
+    {
       "id": "2026-10-29-post1",
       "date": "2026.10.29",
       "title": "難病ポータルサイト NanbyoData Version 4.3.0 リリースのお知らせ",
