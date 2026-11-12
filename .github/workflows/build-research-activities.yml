@@ -1,11 +1,11 @@
-# resources/ の MD が push されたときに resources.json を生成し、リポジトリにコミットする
-name: Build resources.json
+# research-activities/ の MD が push されたときに research-activities.json を生成し、リポジトリにコミットする
+name: Build research-activities.json
 
 on:
   push:
     paths:
-      - 'resources/**'
-      - 'scripts/build_resources_json.py'
+      - 'research-activities/**'
+      - 'scripts/build_research_activities_json.py'
   workflow_dispatch:
 
 jobs:
@@ -25,12 +25,12 @@ jobs:
         run: |
           pip install pyyaml
 
-      - name: Build resources.json
-        run: python scripts/build_resources_json.py
+      - name: Build research-activities.json
+        run: python scripts/build_research_activities_json.py
 
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add static/data/resources.json
-          git diff --staged --quiet || (git commit -m "chore: update resources.json from resources" && git push)
+          git add static/data/research-activities.json
+          git diff --staged --quiet || (git commit -m "chore: update research-activities.json from research-activities" && git push)

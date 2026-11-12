@@ -1,9 +1,29 @@
 {
   "ja": [
     {
+      "id": "2026-11-12-post1",
+      "date": "2026.11.12",
+      "title": "NanbyoData UI/UX 改善リリース（Version 6.2.1）",
+      "tags": [
+        "nanbyodata",
+        "services"
+      ],
+      "body": "<p>トップページのダウンロード機能の不具合を修正し、UI/UXの改善をしました。</p>\n\n<h2>アップデート内容</h2>\n\n<ul>\n<li>トップページからファイルをダウンロードができない不具合を修正しました。</li>\n<li>NanbyoDataに関する活動情報をより分かりやすく掲載するため、Resourcesから<a href=\"https://nanbyodata.jp/research-activities\">Research activites</a>に変更しました。</li>\n</ul>\n"
+    },
+    {
+      "id": "2026-10-29-post1",
+      "date": "2026.10.29",
+      "title": "難病ポータルサイト NanbyoData Version 6.2.0 リリースのお知らせ",
+      "tags": [
+        "nanbyodata",
+        "data-update"
+      ],
+      "body": "<p>疾患情報ページに以下の情報を追加しました。</p>\n\n<h2>アップデート内容</h2>\n\n<p>NBDCヒトデータベースの新規情報をヒトゲノムデータセットとして以下の疾患に追加しました。</p>\n\n<h4>指定難病</h4>\n\n<ul>\n<li><a href=\"https://nanbyodata.jp/disease/NANDO:1200655#human-genomic-datasets\">ウィルソン病（NANDO:1200655）</a>に<a href=\"https://humandbs.dbcls.jp/research/hum0567\">hum0567</a>を追加</li>\n</ul>\n\n<h4>小児慢性特定疾病</h4>\n\n<ul>\n<li><a href=\"https://nanbyodata.jp/disease/NANDO:2200579#human-genomic-datasets\">ウィルソン病（NANDO:2200579）</a>に<a href=\"https://humandbs.dbcls.jp/research/hum0567\">hum0567</a>を追加</li>\n<li><a href=\"https://nanbyodata.jp/disease/NANDO:2200047#human-genomic-datasets\">肝細胞癌（NANDO:2200047）</a>に<a href=\"https://humandbs.dbcls.jp/research/hum0567\">hum0567</a>を追加</li>\n</ul>\n"
+    },
+    {
       "id": "2026-10-01-post2",
       "date": "2026.10.01",
-      "title": "難病ポータルサイト NanbyoData Version 2026-10-01 リリースのお知らせ",
+      "title": "難病ポータルサイト NanbyoData Version 6.1.0 リリースのお知らせ",
       "tags": [
         "services",
         "nanbyodata",
@@ -24,7 +44,7 @@
     {
       "id": "2026-05-29-post1",
       "date": "2026.05.29",
-      "title": "NanbyoData UI/UX 改善リリース（Version 2026-05-29）",
+      "title": "NanbyoData UI/UX 改善リリース（Version 6.0.0）",
       "tags": [
         "services",
         "nanbyodata"
@@ -34,7 +54,7 @@
     {
       "id": "2025-11-26-post1",
       "date": "2025.11.26",
-      "title": "NanbyoData UI/UX 改善リリース（Version 2025-11-26）",
+      "title": "NanbyoData UI/UX 改善リリース（Version 5.0.0）",
       "tags": [
         "services"
       ],
@@ -43,7 +63,7 @@
     {
       "id": "2025-08-26-post2",
       "date": "2025.08.26",
-      "title": "難病ポータルサイト NanbyoData Version 4.1.0 リリースのお知らせ",
+      "title": "難病ポータルサイト NanbyoData Version 4.2.0 リリースのお知らせ",
       "tags": [
         "services"
       ],
@@ -61,7 +81,7 @@
     {
       "id": "2025-04-21-post1",
       "date": "2025.04.21",
-      "title": "難病ポータルサイト NanbyoData Version 2025-04-21 リリースのお知らせ",
+      "title": "難病ポータルサイト NanbyoData Version 4.1.0 リリースのお知らせ",
       "tags": [
         "services"
       ],
@@ -160,9 +180,29 @@
   ],
   "en": [
     {
+      "id": "2026-11-12-post1",
+      "date": "2026.11.12",
+      "title": "NanbyoData UI/UX Improvement Release (Version 6.2.1)",
+      "tags": [
+        "nanbyodata",
+        "services"
+      ],
+      "body": "<p>We have fixed an issue with downloads from the homepage and made UI/UX improvements.</p>\n\n<h2>Updates</h2>\n\n<ul>\n<li>Fixed an issue that prevented files from being downloaded from the homepage.</li>\n<li>Renamed \"Resources\" to \"<a href=\"https://dev-nanbyodata.dbcls.jp/research-activities?lang=en\">Research activites</a>\" to better present information about NanbyoData-related activities.</li>\n</ul>\n"
+    },
+    {
+      "id": "2026-10-29-post1",
+      "date": "2026.10.29",
+      "title": "NanbyoData Version 6.2.0, a portal site for intractable diseases, has been released.",
+      "tags": [
+        "nanbyodata",
+        "data-update"
+      ],
+      "body": "<p>We have added the following information to the disease information pages.</p>\n\n<h2>Updates</h2>\n\n<p>New information from the NBDC Human Database has been added as a Human Genome Dataset for the following diseases.  </p>\n\n<h4>Designated intractable disease</h4>\n\n<ul>\n<li><a href=\"https://nanbyodata.jp/disease/NANDO:1200655?lang=en\">Wilson disease (NANDO:1200655)</a>: Added <a href=\"https://humandbs.dbcls.jp/en/research/hum0567\">hum0567</a></li>\n</ul>\n\n<h4>Specific pediatric chronic disease</h4>\n\n<ul>\n<li><a href=\"https://nanbyodata.jp/disease/NANDO:2200579?lang=en\">Wilson disease (NANDO:2200579)</a>: Added <a href=\"https://humandbs.dbcls.jp/en/research/hum0567\">hum0567</a></li>\n<li><a href=\"https://nanbyodata.jp/disease/NANDO:2200047?lang=en\">Hepatocellular carcinoma (NANDO:2200047)</a>: Added <a href=\"https://humandbs.dbcls.jp/en/research/hum0567\">hum0567</a></li>\n</ul>\n"
+    },
+    {
       "id": "2026-10-01-post2",
       "date": "2026.10.01",
-      "title": "NanbyoData Version 2026-10-01, a portal site for intractable diseases, has been released.",
+      "title": "NanbyoData Version 6.1.0, a portal site for intractable diseases, has been released.",
       "tags": [
         "services",
         "nanbyodata",
@@ -183,7 +223,7 @@
     {
       "id": "2026-05-29-post1",
       "date": "2026.05.29",
-      "title": "NanbyoData UI/UX Improvement Release (Version 2026-05-29)",
+      "title": "NanbyoData UI/UX Improvement Release (Version 6.0.0)",
       "tags": [
         "services",
         "nanbyodata"
@@ -193,7 +233,7 @@
     {
       "id": "2025-08-26-post2",
       "date": "2025.08.26",
-      "title": "NanbyoData Version 4.1.0, a portal site for intractable diseases, has been released.",
+      "title": "NanbyoData Version 4.2.0, a portal site for intractable diseases, has been released.",
       "tags": [
         "services"
       ],
@@ -211,7 +251,7 @@
     {
       "id": "2025-04-21-post1",
       "date": "2025.04.21",
-      "title": "NanbyoData Version 2025-04-21, a portal site for intractable diseases, has been released.",
+      "title": "NanbyoData Version 4.1.0, a portal site for intractable diseases, has been released.",
       "tags": [
         "services"
       ],
