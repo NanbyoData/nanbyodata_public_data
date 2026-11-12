@@ -187,7 +187,7 @@
         "nanbyodata",
         "services"
       ],
-      "body": "<p>We have fixed an issue with downloads from the homepage and made UI/UX improvements.</p>\n\n<h3>Updates</h3>\n\n<ul>\n<li>Fixed an issue that prevented files from being downloaded from the homepage.</li>\n<li>Renamed \"Resources\" to \"Research activities\" to better present information about NanbyoData-related activities.</li>\n</ul>\n"
+      "body": "<p>We have fixed an issue with downloads from the homepage and made UI/UX improvements.</p>\n\n<h3>Updates</h3>\n\n<ul>\n<li>Fixed an issue that prevented files from being downloaded from the homepage.</li>\n<li>Renamed \"Resources\" to \"<a href=\"https://dev-nanbyodata.dbcls.jp/research-activities?lang=en\">Research activites</a>\" to better present information about NanbyoData-related activities.</li>\n</ul>\n"
     },
     {
       "id": "2026-10-29-post1",
