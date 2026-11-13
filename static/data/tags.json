@@ -10,6 +10,14 @@
         "color": "#0ea5e9"
       },
       {
+        "key": "nando",
+        "labels": {
+          "ja": "NANDO",
+          "en": "NANDO"
+        },
+        "color": "#2563eb"
+      },
+      {
         "key": "services",
         "labels": {
           "ja": "サービス更新",
@@ -62,6 +70,22 @@
   "research_activities": {
     "tags": [
       {
+        "key": "nanbyodata",
+        "labels": {
+          "ja": "NanbyoData",
+          "en": "NanbyoData"
+        },
+        "color": "#0ea5e9"
+      },
+      {
+        "key": "nando",
+        "labels": {
+          "ja": "NANDO",
+          "en": "NANDO"
+        },
+        "color": "#2563eb"
+      },
+      {
         "key": "paper",
         "labels": {
           "ja": "論文",
@@ -110,20 +134,12 @@
         "color": "#8b5cf6"
       },
       {
-        "key": "nando",
+        "key": "collaboration",
         "labels": {
-          "ja": "NANDO",
-          "en": "NANDO"
+          "ja": "共同研究",
+          "en": "Collaboration"
         },
-        "color": "#0ea5e9"
-      },
-      {
-        "key": "nanbyodata",
-        "labels": {
-          "ja": "NanbyoData",
-          "en": "NanbyoData"
-        },
-        "color": "#0ea5e9"
+        "color": "#db2777"
       },
       {
         "key": "award",
@@ -132,14 +148,6 @@
           "en": "Award"
         },
         "color": "#facc15"
-      },
-      {
-        "key": "collaboration",
-        "labels": {
-          "ja": "共同研究",
-          "en": "Collaboration"
-        },
-        "color": "#f97316"
       },
       {
         "key": "other",
