@@ -1,6 +1,16 @@
 {
   "ja": [
     {
+      "id": "2026-11-17-post1",
+      "date": "2026.11.17",
+      "title": "難病ポータルサイト NanbyoData Version 6.3.0 リリースのお知らせ",
+      "tags": [
+        "nanbyodata",
+        "data-update"
+      ],
+      "body": "<p>疾患情報ページに以下の情報を追加しました。</p>\n\n<h2>アップデート内容</h2>\n\n<p>NBDCヒトデータベースの新規情報をヒトゲノムデータセットとして以下の疾患に追加しました。</p>\n\n<h4>指定難病</h4>\n\n<ul>\n<li><a href=\"https://nanbyodata.jp/disease/NANDO:1200608#human-genomic-datasets\">色素性乾皮症（NANDO:1200608）</a>に<a href=\"https://humandbs.dbcls.jp/research/hum0612\">hum0612</a>を追加</li>\n</ul>\n\n<h4>小児慢性特定疾病</h4>\n\n<ul>\n<li><a href=\"https://nanbyodata.jp/disease/NANDO:2201002#human-genomic-datasets\">色素性乾皮症（NANDO:2201002）</a>に<a href=\"https://humandbs.dbcls.jp/research/hum0612\">hum0612</a>を追加</li>\n<li><a href=\"https://nanbyodata.jp/disease/NANDO:2200065#human-genomic-datasets\">脂肪肉腫（NANDO:2200065）</a>に<a href=\"https://humandbs.dbcls.jp/research/hum0489\">hum0489</a>を追加</li>\n</ul>\n"
+    },
+    {
       "id": "2026-11-12-post1",
       "date": "2026.11.12",
       "title": "NanbyoData UI/UX 改善リリース（Version 6.2.1）",
